@@ -50,3 +50,5 @@ var hslToRgb = function(hue, saturation, lightness){
   return [Math.round(red * 255), Math.round(green * 255), Math.round(blue * 255)];
 
 };
+
+module.exports = hslToRgb;

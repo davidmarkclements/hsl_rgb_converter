@@ -12,6 +12,7 @@ Author forgot to export their function in the hsl-to-rgb module,
 there's a PR that's been sitting for over a year (at time of writing).
 Let's use `hsl-to-rgb-for-reals` until original author merges. Huzzah!
 
+Funny story - I forgot to module export in v1.0.0 too! Don't use 1.0.0.
 
 Getting started:
 
