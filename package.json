@@ -1,5 +1,5 @@
 {
-  "name": "hsl-to-rgb",
+  "name": "hsl-to-rgb-for-reals",
   "version": "1.0.0",
   "description": "simple HSL to RGB converter",
   "main": "converter.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kayellpeee/hsl_rgb_converter.git"
+    "url": "https://github.com/davidmarkclements/hsl_rgb_converter/"
   },
   "keywords": [
     "hsl",
@@ -20,10 +20,9 @@
     "saturation",
     "light"
   ],
-  "author": "Keenan Lidral-Porter",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kayellpeee/hsl_rgb_converter/issues"
   },
-  "homepage": "https://github.com/kayellpeee/hsl_rgb_converter"
+  "homepage": "https://github.com/davidmarkclements/hsl_rgb_converter/"
 }
