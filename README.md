@@ -3,7 +3,7 @@
 ##HSL -> RGB
 Convert HSL values (hue, saturation, light) to RGB values (red, green, blue). 
 Expected values:
-Hue: [0, 360]
+Hue: [0, 360[
 Saturation: [0, 1]
 Lightness: [0, 1]
 
